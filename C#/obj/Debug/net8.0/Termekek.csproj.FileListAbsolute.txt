@@ -1,0 +1,15 @@
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.AssemblyInfoInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.AssemblyInfo.cs
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.csproj.CoreCompileInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.sourcelink.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/bin/Debug/net8.0/Termekek
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/bin/Debug/net8.0/Termekek.deps.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/bin/Debug/net8.0/Termekek.runtimeconfig.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/bin/Debug/net8.0/Termekek.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/bin/Debug/net8.0/Termekek.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/refint/Termekek.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/Termekek.genruntimeconfig.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/Termekek/obj/Debug/net8.0/ref/Termekek.dll
