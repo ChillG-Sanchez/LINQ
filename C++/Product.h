@@ -6,17 +6,17 @@
 class Product {
 public:
     int id;
-    std::string name;
+    std::wstring name;
     double price;
-    std::string category;
+    std::wstring category;
 
-    Product() : id(0), name(""), price(0.0), category("") {}
+    Product() : id(0), name(L""), price(0.0), category(L"") {}
 
-    Product(int id, std::string name, double price, std::string category)
+    Product(int id, std::wstring name, double price, std::wstring category)
         : id(id), name(name), price(price), category(category) {}
 
-    std::string ToString() const {
-        return "ID: " + std::to_string(id) + ", Név: " + name + ", Ár: " + std::to_string(price) + ", Kategória: " + category;
+    std::wstring ToString() const {
+        return L"ID: " + std::to_wstring(id) + L", Név: " + name + L", Ár: " + std::to_wstring(price) + L", Kategória: " + category;
     }
 };
 
